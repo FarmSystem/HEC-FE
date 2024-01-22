@@ -34,10 +34,9 @@
 
 ### ✅ 로그인 화면
 
-| 카카오톡 로그인 화면 | 카카오톡 로그인 정보 가져오기 |  
-| -------- | -------- |
-| <img width="250" alt="스크린샷 2024-01-20 오후 3 56 43" src="https://github.com/farm-6/HEC-FE/assets/119389695/02c7fc6f-7dd7-4ede-b2f0-f299827106f8">| <img width="500" alt="스크린샷 2024-01-20 오후 4 00 02" src="https://github.com/farm-6/HEC-FE/assets/119389695/a810eb6f-1163-46eb-8276-fc51ce6d332e"> |
-
+| 카카오톡 로그인 화면 | 
+| -------- | 
+| <img width="250" alt="스크린샷 2024-01-20 오후 3 56 43" src="https://github.com/farm-6/HEC-FE/assets/119389695/02c7fc6f-7dd7-4ede-b2f0-f299827106f8">| 
 ### ✅ AI 분석 화면
 
 | 사진 선택 | 갤러리 사진 가져오기 | AI 분석 성공할 경우 |
