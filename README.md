@@ -73,3 +73,9 @@
 | -------- | -------- | -------- |
 |<img width="250" alt="스크린샷 2024-01-20 오후 4 07 58" src="https://github.com/farm-6/HEC-FE/assets/119389695/90343843-a142-4a0d-86d9-aa4f839c3457">| <img width="250" alt="스크린샷 2024-01-20 오후 4 08 07" src="https://github.com/farm-6/HEC-FE/assets/119389695/bf4adda9-7e4c-4e52-a5e7-7ba58fe747eb"> |<img width="250" alt="스크린샷 2024-01-20 오후 4 08 14" src="https://github.com/farm-6/HEC-FE/assets/119389695/85916aab-ed0d-4b65-9783-2f8931c35118">|
 
+## 📌 시연 영상
+
+[![Video Label](https://github.com/farm-6/HEC-FE/assets/119389695/4455456e-2ff7-4001-81bc-570424b60585)](https://www.youtube.com/watch?v=X745u65Qaic)
+
+
+
